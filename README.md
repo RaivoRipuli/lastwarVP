@@ -9,4 +9,4 @@
 ## Todo
 
 1) Random sleep timers
-2) More testing
+2) More testing (maybe rethink the first click, it can hit something accidentally)
