@@ -7,3 +7,8 @@
 4) Run the AutoHotkey script (_autoVP.ahk_)
 5) It should start automatically with a short random delay
 6) You can terminate it by holding "q"
+
+## TODO
+
+1) Test how it works when capitol occupiers leave (menu order changes)
+2) Use pixel color as conditions (perhaps too fancy)
