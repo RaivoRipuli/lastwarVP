@@ -12,3 +12,10 @@
 
 1) Test how it works when capitol occupiers leave (menu order changes)
 2) Use pixel color as conditions (perhaps too fancy)
+
+## Testing done
+
+1) PM
+2) Zero
+3) Someone applies for VP
+4) Running for a whole day
