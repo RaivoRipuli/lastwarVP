@@ -22,5 +22,5 @@
 
 ## Settings
 
-SleepLow = low limit in milliseconds for the sleep timers
+SleepLow = low limit in milliseconds for the sleep timers\
 SleepHigh = high limit in milliseconds for the sleep timers
