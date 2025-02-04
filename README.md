@@ -2,7 +2,7 @@
 
 ## How to use
 1) Install AutoHotkey (default settings)
-2) Start the game with a defined resolution (_LastWar.exe -screen-height 1024 -screen-width 1080_)
+2) Start the game with a defined resolution (_LastWar.exe -screen-height 1024 -screen-width 1080_) or use the "startLastWar.cmd"
 3) Open the "Title Assignment" view
 4) Run the AutoHotkey script (_autoVP.ahk_)
 6) It will start automatically after two seconds
