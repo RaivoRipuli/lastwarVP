@@ -1,0 +1,1 @@
+Start "" "%LOCALAPPDATA%\TheLastWar\LastWar.exe" -screen-height 1024 -screen-width 1080
