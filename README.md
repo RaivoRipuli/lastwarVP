@@ -23,7 +23,10 @@
 ## Settings
 
 SleepLow = low limit in milliseconds for the sleep timers\
-SleepHigh = high limit in milliseconds for the sleep timers
+SleepHigh = high limit in milliseconds for the sleep timers\
+SleepScrollLow = low limit in milliseconds for srolling timers\
+SleepScrollHigh = high limit in milliseconds for srolling timers\
+Scrolls = How many times it scrolls
 
 ## Info
 
