@@ -11,7 +11,6 @@
 ## TODO
 
 1) Test how it works when capitol occupiers leave (menu order changes)
-2) Use pixel color as conditions (perhaps too fancy)
 
 ## Testing done
 
@@ -19,8 +18,13 @@
 2) Zero
 3) Someone applies for VP
 4) Running for a whole day
+5) Application queue full
 
 ## Settings
 
 SleepLow = low limit in milliseconds for the sleep timers\
 SleepHigh = high limit in milliseconds for the sleep timers
+
+## Info
+
+Version 4 should be able to scroll the applications list. It will scroll depending on the pixel color detected.
