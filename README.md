@@ -17,6 +17,8 @@ Optional feature to automatically restart the game
 3) Import Restart Last War.xml as a scheduled task (https://www.windowscentral.com/how-export-and-import-scheduled-tasks-windows-10)
 4) Set the user account you want to use and and select your operating system for the configure for option
 5) Edit action, set the correct path for scheduledStart.ps1 (for example, "C:\Temp\scheduledStart.ps1")
+6) It will automatically start the game every five minutes, unless it is already running
+7) You can disable the task if you don't want to use it
 
 ## TODO
 
