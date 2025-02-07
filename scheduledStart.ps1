@@ -1,0 +1,1 @@
+if (-not (Get-Process -Name LastWar -ErrorAction SilentlyContinue)) {.\startLastWar.cmd}
