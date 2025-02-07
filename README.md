@@ -38,6 +38,6 @@ SleepScrollLow = low limit in milliseconds for scrolling timers\
 SleepScrollHigh = high limit in milliseconds for scrolling timers\
 Scrolls = How many times it scrolls
 
-## Info
+## Miscellaneous info
 
 Version 4 should be able to scroll the applications list. It will scroll depending on the pixel color detected.
