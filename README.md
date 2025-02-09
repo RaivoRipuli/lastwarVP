@@ -3,7 +3,7 @@
 ## How to use
 1) Install AutoHotkey (default settings)
 2) Start the game with a defined resolution (_LastWar.exe -screen-height 1024 -screen-width 1080_) or use the "startLastWar.cmd"
-3) Open the "Title Assignment" view
+3) Open the "Title Assignment" view (optional)
 4) Run the AutoHotkey script (_autoVP.ahk_)
 6) It will start automatically after two seconds
 7) You can terminate it by holding "q"
@@ -43,4 +43,5 @@ Scrolls = How many times it scrolls
 
 ## Miscellaneous info
 
-Version 4 should be able to scroll the applications list. It will scroll depending on the pixel color detected.
+Version 4 is able to scroll the applications list. It will scroll depending on the pixel color detected.
+Version 6 is more reliant on pixel colors, but can also automatically open applicants menu and only try to approve when somone has applied
