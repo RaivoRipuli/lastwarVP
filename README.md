@@ -23,6 +23,7 @@ Optional feature to automatically restart the game
 ## TODO
 
 1) Test how it works when capitol occupiers leave (menu order changes)
+2) Maybe use application notifications as triggers for action
 
 ## Testing done
 
