@@ -33,6 +33,10 @@ Optional feature to automatically restart the game
 4) Running for a whole day
 5) Application queue full
 
+## Known issues
+
+1) Scrolling sometimes fails. This should automatically remediate.
+
 ## Settings
 
 SleepLow = low limit in milliseconds for the sleep timers\
