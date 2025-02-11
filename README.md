@@ -48,5 +48,5 @@ Scrolls = How many times it scrolls
 
 ## Miscellaneous info
 
-Version 4 is able to scroll the applications list. It will scroll depending on the pixel color detected.
+Version 4 is able to scroll the applications list. It will scroll depending on the pixel color detected.\
 Version 6 is more reliant on pixel colors, but can also automatically open applicants menu and only try to approve when somone has applied
