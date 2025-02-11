@@ -23,8 +23,7 @@ Optional feature to automatically restart the game
 ## TODO
 
 1) Test how it works when capitol occupiers leave (menu order changes)
-2) Maybe use application notifications as triggers for action
-3) Make function for all the secretary roles (if it works with AHK)
+2) Maybe use application notifications (the red exclamation mark) as triggers for action
 
 ## Testing done
 
@@ -37,6 +36,7 @@ Optional feature to automatically restart the game
 ## Known issues
 
 1) Scrolling sometimes fails. This should automatically remediate.
+2) Adding moments on the bot account's profile will make in unable to navigate
 
 ## Settings
 
