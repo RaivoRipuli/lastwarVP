@@ -7,7 +7,7 @@
 4) Run the AutoHotkey script (_autoVP.ahk_)
 6) It will start automatically after two seconds
 7) You can terminate it by holding "q"
-8) The file "list.txt" can be used to allow or block entities based on the settings
+8) The file "list.txt" can be used to allow or block entities based on the settings (by default the deny mode is active, but it is more permissive than allow mode)
 
 ## Automatic game restart
 
@@ -44,5 +44,5 @@ Scrolls = How many times it scrolls
 ## Miscellaneous info
 
 Version 4 is able to scroll the applications list. It will scroll depending on the pixel color detected.\
-Version 6 is more reliant on pixel colors, but can also automatically open applicants menu and only try to approve when somone has applied
+Version 6 is more reliant on pixel colors, but can also automatically open applicants menu and only try to approve when somone has applied.\
 Version 11 is with OCR and player detection feature
