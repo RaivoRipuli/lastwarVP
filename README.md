@@ -39,7 +39,7 @@ Optional feature to automatically restart the game
 ## Known issues
 
 1) Scrolling and navigation sometimes fails, but it happens very rarely
-2) Adding moments on the bot account's profile will make in unable to navigate
+2) Adding moments on the bot account's profile will make it unable to navigate
 
 ## Settings
 
