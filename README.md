@@ -6,7 +6,7 @@
 3) Run the AutoHotkey script (_autoVP.ahk_)
 4) It will start automatically after two seconds
 5) You can terminate it by holding "q"
-6) By default deny mode is active, it is more permissive than allow mode
+6) By default deny mode is active (it is more permissive than allow mode), you can change it according to the chart
 7) The file "list.txt" can be used to allow or block entities based on the settings
 
 ## Mode explanation
