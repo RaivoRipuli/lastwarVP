@@ -3,11 +3,18 @@
 ## How to use
 1) Install AutoHotkey (default settings)
 2) Start the game with a defined resolution (_LastWar.exe -screen-height 1024 -screen-width 1080_) or use the "startLastWar.cmd"
-3) Open the "Title Assignment" view (optional)
-4) Run the AutoHotkey script (_autoVP.ahk_)
-6) It will start automatically after two seconds
-7) You can terminate it by holding "q"
-8) The file "list.txt" can be used to allow or block entities based on the settings (by default the deny mode is active, but it is more permissive than allow mode)
+3) Run the AutoHotkey script (_autoVP.ahk_)
+4) It will start automatically after two seconds
+5) You can terminate it by holding "q"
+6) By default deny mode is active, it is more permissive than allow mode
+7) The file "list.txt" can be used to allow or block entities based on the settings
+
+## Mode explanation
+
+| Mode | Deny setting | Effect |
+|----------|----------|----------|
+| Deny    | true     | Denies listed entitites     |
+| Allow    | false     | Denies everyone but the listed entities     |
 
 ## Automatic game restart
 
