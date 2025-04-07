@@ -50,7 +50,7 @@ Scrolls = How many times it scrolls
 
 ## Miscellaneous
 
-You can give players Note Name in game. This way banned players cannot escape the ban by chaning their name, it is easier to deal with the OCR and you can you a common prefix to ban everyone.
+You can give players "Note Name" in game. This way banned players cannot escape the ban by chaning their name, it is easier to deal with the OCR and you can you a common prefix to ban everyone.
 
 ## Miscellaneous info
 
