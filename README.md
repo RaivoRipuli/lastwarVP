@@ -48,6 +48,10 @@ SleepHigh = high limit in milliseconds for the sleep timers\
 Deny = boolean value for enabling deny mode or allow mode\
 Scrolls = How many times it scrolls
 
+## Miscellaneous
+
+You can give players Note Name in game. This way banned players cannot escape the ban by chaning their name, it is easier to deal with the OCR and you can you a common prefix to ban everyone.
+
 ## Miscellaneous info
 
 Version 4 is able to scroll the applications list. It will scroll depending on the pixel color detected.\
