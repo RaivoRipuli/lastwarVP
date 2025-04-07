@@ -7,6 +7,7 @@
 4) Run the AutoHotkey script (_autoVP.ahk_)
 6) It will start automatically after two seconds
 7) You can terminate it by holding "q"
+8) The file "list.txt" can be used to allow or block entities based on the settings
 
 ## Automatic game restart
 
@@ -20,11 +21,6 @@ Optional feature to automatically restart the game
 6) It will automatically start the game every five minutes, unless it is already running
 7) You can disable the task if you don't want to use it
 
-## TODO
-
-1) Test how it works when capitol occupiers leave (menu order changes)
-2) Maybe use application notifications (the red exclamation mark) as triggers for action
-
 ## Testing done
 
 1) PM
@@ -35,18 +31,18 @@ Optional feature to automatically restart the game
 
 ## Known issues
 
-1) Scrolling sometimes fails. This should automatically remediate.
+1) Scrolling sometimes fails, but it happens very rarely
 2) Adding moments on the bot account's profile will make in unable to navigate
 
 ## Settings
 
 SleepLow = low limit in milliseconds for the sleep timers\
 SleepHigh = high limit in milliseconds for the sleep timers\
-SleepScrollLow = low limit in milliseconds for scrolling timers\
-SleepScrollHigh = high limit in milliseconds for scrolling timers\
+Deny = boolean value for enabling deny mode or allow mode\
 Scrolls = How many times it scrolls
 
 ## Miscellaneous info
 
 Version 4 is able to scroll the applications list. It will scroll depending on the pixel color detected.\
 Version 6 is more reliant on pixel colors, but can also automatically open applicants menu and only try to approve when somone has applied
+Version 11 is with OCR and player detection feature
