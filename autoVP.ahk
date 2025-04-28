@@ -64,7 +64,7 @@ Loop {
 	SearchString(lines) {
 		global Matched := false
 		for index, line in lines {
-			result := OCR.FromWindow("Last War-Survival Game", {lang:"en-us", scale:1, greyscale:1 X:390, Y:205, W:250, H:30})
+			result := OCR.FromWindow("Last War-Survival Game", {lang:"en-us", scale:2, greyscale:1 X:390, Y:205, W:250, H:30})
 			try found := result.FindString(line)
 			catch {
 				continue
